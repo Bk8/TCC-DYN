@@ -1,0 +1,6 @@
+*.cmake
+Makefile
+TCC-DYN-BIN
+tdl
+CMakeCache.txt
+CMakeFiles
