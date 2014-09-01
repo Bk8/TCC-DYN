@@ -1,8 +1,6 @@
-###TCC-DYN
 ---
-
-##This software (TCC-DYN) is provided under the MIT license:
-	#Copyright (c) 2014 Alexander Sago
+#TCC-DYN
+##This software (TCC-DYN) is provided under the MIT license. Copyright (c) 2014 Alexander Sago
 
 		Permission is hereby granted, free of charge, to any person obtaining a copy
 		of this software and associated documentation files (the "Software"), to deal
@@ -23,6 +21,7 @@
 		THE SOFTWARE.
 
 ---
-##libtcc (Tiny C Compiler) linked dynamicaly in accordance with the LGPL.
-	#Copyright (c) Fabrice Bellard
+#libtcc (Tiny C Compiler) 
+##Linked dynamicaly in accordance with the LGPL. Copyright (c) Fabrice Bellard
 	http://bellard.org/tcc/
+---
